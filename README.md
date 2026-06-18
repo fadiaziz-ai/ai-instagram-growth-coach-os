@@ -10,7 +10,31 @@ This system analyzes Instagram profiles, studies recent content performance, com
 
 The goal is to help creators, artists, brands, and businesses grow their Instagram presence using AI-powered workflow automation.
 
+----
+
+## System Preview
+
+### Main Workflow Architecture
+
+![Main Workflow](assets/screenshots/main-workflow.png)
+
 ---
+
+### Daily Growth Brief System
+
+![Growth Brief](assets/screenshots/daily-growth-brief.png)
+
+---
+
+### Strategy & AI Recommendation Engine
+
+![Strategy Engine](assets/screenshots/daily-growth-brief-overview.png)
+
+---
+
+### Delivery & Status System
+
+![Delivery System](assets/screenshots/daily-growth-brief-delivery-status.png)--
 
 ## Core Features
 
