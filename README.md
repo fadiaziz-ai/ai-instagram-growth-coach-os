@@ -1,90 +1,99 @@
 # AI Instagram Growth Coach OS
 
-AI-powered Instagram growth and content strategy system built with n8n, OpenAI, Telegram, and Google Sheets.
+AI-powered Instagram growth and content strategy automation system built with n8n, OpenAI, Telegram, and Google Sheets.
 
 ---
 
 ## Overview
 
-This system analyzes Instagram profiles, studies recent content performance, compares niche trends and viral competitors, and generates strategic daily growth recommendations automatically.
+The AI Instagram Growth Coach OS is designed to help creators, artists, brands, and businesses grow their Instagram presence using intelligent workflow automation and AI-powered strategic analysis.
 
-The goal is to help creators, artists, brands, and businesses grow their Instagram presence using AI-powered workflow automation.
+The system studies Instagram profiles, analyzes recent content performance, researches viral trends and competitors, and automatically generates strategic content recommendations, growth insights, hooks, captions, posting strategies, and Telegram-delivered growth briefs.
 
 ---
 
-## System Preview
+# System Preview
 
-### Main Workflow Architecture
+## Main Workflow Architecture
 
 ![Main Workflow](assets/screenshots/main-workflow.png)
 
 ---
 
-### Daily Growth Brief System
+## Daily Growth Brief System
 
 ![Growth Brief](assets/screenshots/daily-growth-brief.png)
 
 ---
 
-### Strategy & AI Recommendation Engine
+## Strategy & AI Recommendation Engine
 
 ![Strategy Engine](assets/screenshots/daily-growth-brief-overview.png)
 
 ---
 
-### Delivery & Status System
+## Delivery & Status System
 
 ![Delivery System](assets/screenshots/daily-growth-brief-delivery-status.png)
 
 ---
 
-### Telegram Command Center
+## Telegram Command Center
 
-#### AI Telegram Content Request Example
+### AI Telegram Content Request Example
 
-![Telegram Command Center](assets/screenshots/telegram-command-center.png)
+![Telegram Command Center](assets/screenshots/telegram-content-request-example.png)
 
 ---
 
-## Core Features
+# Core Features
 
 * AI-generated daily growth briefs
 * Viral trend analysis
-* Competitor research system
-* Profile diagnosis & scoring
+* Competitor research engine
+* Profile diagnosis and scoring
 * Hook and caption generation
-* Brand voice system
+* Brand voice intelligence system
 * Weekly content strategy generation
-* Telegram command center
+* Telegram command center integration
 * Duplicate content protection
 * Content history tracking
 * Smart posting recommendations
+* Multi-niche support architecture
+* AI-powered content planning
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 * n8n
 * OpenAI API
 * Telegram Bot API
 * Google Sheets API
-* AI Prompt Engineering
 * Workflow Automation
+* AI Prompt Engineering
 * JSON Logic
 * Webhooks
 
 ---
 
-## Workflow Architecture
+# Workflow Architecture
 
-Instagram Profiles → Content Analysis → Trend Research → AI Strategy Engine → Growth Brief Generation → Telegram Delivery → Google Sheets Storage
+Instagram Profiles
+→ Content Analysis
+→ Trend Research
+→ Competitor Intelligence
+→ AI Strategy Engine
+→ Growth Brief Generation
+→ Telegram Delivery
+→ Google Sheets Storage
 
 ---
 
-## Use Cases
+# Supported Niches
 
 * Music Artists
-* DJs & Labels
+* DJs & Record Labels
 * Tattoo Artists
 * Coaches
 * Restaurants
@@ -95,24 +104,26 @@ Instagram Profiles → Content Analysis → Trend Research → AI Strategy Engin
 
 ---
 
-## Future Vision
+# Future Vision
 
-The long-term goal is to evolve this system into a full AI-powered Growth Intelligence OS that helps businesses and creators make smarter content decisions automatically.
+The long-term vision is to evolve this project into a complete AI-powered Growth Intelligence OS that helps creators and businesses make smarter content decisions automatically.
 
-Future versions may include:
+Future roadmap ideas include:
 
 * Instagram API integrations
-* WhatsApp delivery
-* AI-powered engagement scoring
+* WhatsApp delivery system
+* AI engagement scoring
 * Content performance prediction
-* Multi-platform content strategy
-* SaaS dashboard system
-* AI client onboarding assistant
+* Multi-platform strategy generation
+* SaaS dashboard platform
+* AI onboarding assistant
 * Automated reporting systems
+* Client management system
+* AI trend prediction engine
 
 ---
 
-## Built By
+# Built By
 
 Fadi Aziz
 AI Automation Builder & Workflow Systems Designer
