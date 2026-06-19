@@ -42,7 +42,15 @@ The system studies Instagram profiles, analyzes recent content performance, rese
 
 ### AI Telegram Content Request Example
 
-![Telegram Command Center](assets/screenshots/telegram-content-request-example.png)
+![Telegram Content Request Example](assets/screenshots/telegram-content-request-example.png)
+
+---
+
+## AI Trend Research System
+
+### Telegram Trend Suggestions & Command Center
+
+![Telegram Trend System](assets/screenshots/telegram-trend-system.png)
 
 ---
 
@@ -56,6 +64,8 @@ The system studies Instagram profiles, analyzes recent content performance, rese
 * Brand voice intelligence system
 * Weekly content strategy generation
 * Telegram command center integration
+* AI trend suggestion system
+* Telegram help menu
 * Duplicate content protection
 * Content history tracking
 * Smart posting recommendations
