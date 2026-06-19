@@ -10,7 +10,7 @@ This system analyzes Instagram profiles, studies recent content performance, com
 
 The goal is to help creators, artists, brands, and businesses grow their Instagram presence using AI-powered workflow automation.
 
-----
+---
 
 ## System Preview
 
@@ -34,34 +34,44 @@ The goal is to help creators, artists, brands, and businesses grow their Instagr
 
 ### Delivery & Status System
 
-![Delivery System](assets/screenshots/daily-growth-brief-delivery-status.png)--
+![Delivery System](assets/screenshots/daily-growth-brief-delivery-status.png)
+
+---
+
+### Telegram Command Center
+
+#### AI Telegram Content Request Example
+
+![Telegram Command Center](assets/screenshots/telegram-command-center.png)
+
+---
 
 ## Core Features
 
-- AI-generated daily growth briefs
-- Viral trend analysis
-- Competitor research system
-- Profile diagnosis & scoring
-- Hook and caption generation
-- Brand voice system
-- Weekly content strategy generation
-- Telegram command center
-- Duplicate content protection
-- Content history tracking
-- Smart posting recommendations
+* AI-generated daily growth briefs
+* Viral trend analysis
+* Competitor research system
+* Profile diagnosis & scoring
+* Hook and caption generation
+* Brand voice system
+* Weekly content strategy generation
+* Telegram command center
+* Duplicate content protection
+* Content history tracking
+* Smart posting recommendations
 
 ---
 
 ## Tech Stack
 
-- n8n
-- OpenAI API
-- Telegram Bot API
-- Google Sheets API
-- AI Prompt Engineering
-- Workflow Automation
-- JSON Logic
-- Webhooks
+* n8n
+* OpenAI API
+* Telegram Bot API
+* Google Sheets API
+* AI Prompt Engineering
+* Workflow Automation
+* JSON Logic
+* Webhooks
 
 ---
 
@@ -73,15 +83,15 @@ Instagram Profiles → Content Analysis → Trend Research → AI Strategy Engin
 
 ## Use Cases
 
-- Music Artists
-- DJs & Labels
-- Tattoo Artists
-- Coaches
-- Restaurants
-- Fitness Brands
-- Personal Brands
-- Content Creators
-- Small Businesses
+* Music Artists
+* DJs & Labels
+* Tattoo Artists
+* Coaches
+* Restaurants
+* Fitness Brands
+* Personal Brands
+* Content Creators
+* Small Businesses
 
 ---
 
@@ -89,9 +99,20 @@ Instagram Profiles → Content Analysis → Trend Research → AI Strategy Engin
 
 The long-term goal is to evolve this system into a full AI-powered Growth Intelligence OS that helps businesses and creators make smarter content decisions automatically.
 
+Future versions may include:
+
+* Instagram API integrations
+* WhatsApp delivery
+* AI-powered engagement scoring
+* Content performance prediction
+* Multi-platform content strategy
+* SaaS dashboard system
+* AI client onboarding assistant
+* Automated reporting systems
+
 ---
 
 ## Built By
 
-Fadi Aziz  
+Fadi Aziz
 AI Automation Builder & Workflow Systems Designer
